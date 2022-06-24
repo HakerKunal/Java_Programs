@@ -1,3 +1,5 @@
+package javaBasics;
+
 interface FirstInterface{
     public void myMethod();
 }

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstrationEx/AbstrationEx.iml" filepath="$PROJECT_DIR$/AbstrationEx/AbstrationEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceEx/InterfaceEx.iml" filepath="$PROJECT_DIR$/InterfaceEx/InterfaceEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics.iml" filepath="$PROJECT_DIR$/java_basics.iml" />
     </modules>
   </component>

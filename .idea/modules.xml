@@ -7,8 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionalInterface/FunctionalInterface.iml" filepath="$PROJECT_DIR$/FunctionalInterface/FunctionalInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceEx/InterfaceEx.iml" filepath="$PROJECT_DIR$/InterfaceEx/InterfaceEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambadaExpression/LambadaExpression.iml" filepath="$PROJECT_DIR$/LambadaExpression/LambadaExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WarpperEx/WarpperEx.iml" filepath="$PROJECT_DIR$/WarpperEx/WarpperEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics.iml" filepath="$PROJECT_DIR$/java_basics.iml" />
     </modules>
   </component>

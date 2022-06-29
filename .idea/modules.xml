@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/InterfaceEx/InterfaceEx.iml" filepath="$PROJECT_DIR$/InterfaceEx/InterfaceEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambadaExpression/LambadaExpression.iml" filepath="$PROJECT_DIR$/LambadaExpression/LambadaExpression.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiTHreading/MultiTHreading.iml" filepath="$PROJECT_DIR$/MultiTHreading/MultiTHreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/StreamAPI.iml" filepath="$PROJECT_DIR$/StreamAPI/StreamAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Syncronization/Syncronization.iml" filepath="$PROJECT_DIR$/Syncronization/Syncronization.iml" />
       <module fileurl="file://$PROJECT_DIR$/WarpperEx/WarpperEx.iml" filepath="$PROJECT_DIR$/WarpperEx/WarpperEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basics.iml" filepath="$PROJECT_DIR$/java_basics.iml" />

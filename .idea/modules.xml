@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AbstrationEx/AbstrationEx.iml" filepath="$PROJECT_DIR$/AbstrationEx/AbstrationEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/AnonumousClass/AnonumousClass.iml" filepath="$PROJECT_DIR$/AnonumousClass/AnonumousClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionAPI/CollectionAPI.iml" filepath="$PROJECT_DIR$/CollectionAPI/CollectionAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionalInterface/FunctionalInterface.iml" filepath="$PROJECT_DIR$/FunctionalInterface/FunctionalInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/FutureInterface/FutureInterface.iml" filepath="$PROJECT_DIR$/FutureInterface/FutureInterface.iml" />
